@@ -1,0 +1,8 @@
+{
+
+	"trade": "False",
+	"symbol": "GOOG",
+	"api_key": "PKJ5F2UFVCATVPQ29PDY",
+	"secret_key": "rxRelaCMGflQ1rUtDVpZK2AcMkD4RYgfIQiF1OmW",
+	"endpoint": "https://paper-api.alpaca.markets"
+}
